@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\aybayrak\\Desktop\\ApiProjeKampi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34F361AE-99C4-402E-BCCF-A3F75FC58234}|ApiProjeKampi.WebApi\\ApiProjeKampi.WebApi.csproj|c:\\users\\aybayrak\\desktop\\apiprojekampi\\apiprojekampi.webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34F361AE-99C4-402E-BCCF-A3F75FC58234}|ApiProjeKampi.WebApi\\ApiProjeKampi.WebApi.csproj|solutionrelative:apiprojekampi.webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34F361AE-99C4-402E-BCCF-A3F75FC58234}|ApiProjeKampi.WebApi\\ApiProjeKampi.WebApi.csproj|c:\\users\\aybayrak\\desktop\\apiprojekampi\\apiprojekampi.webapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F361AE-99C4-402E-BCCF-A3F75FC58234}|ApiProjeKampi.WebApi\\ApiProjeKampi.WebApi.csproj|solutionrelative:apiprojekampi.webapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34F361AE-99C4-402E-BCCF-A3F75FC58234}|ApiProjeKampi.WebApi\\ApiProjeKampi.WebApi.csproj|c:\\users\\aybayrak\\desktop\\apiprojekampi\\apiprojekampi.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34F361AE-99C4-402E-BCCF-A3F75FC58234}|ApiProjeKampi.WebApi\\ApiProjeKampi.WebApi.csproj|solutionrelative:apiprojekampi.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34F361AE-99C4-402E-BCCF-A3F75FC58234}|ApiProjeKampi.WebApi\\ApiProjeKampi.WebApi.csproj|c:\\users\\aybayrak\\desktop\\apiprojekampi\\apiprojekampi.webapi\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F361AE-99C4-402E-BCCF-A3F75FC58234}|ApiProjeKampi.WebApi\\ApiProjeKampi.WebApi.csproj|solutionrelative:apiprojekampi.webapi\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F361AE-99C4-402E-BCCF-A3F75FC58234}|ApiProjeKampi.WebApi\\ApiProjeKampi.WebApi.csproj|c:\\users\\aybayrak\\desktop\\apiprojekampi\\apiprojekampi.webapi\\dtos\\contactdtos\\updatecontcatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F361AE-99C4-402E-BCCF-A3F75FC58234}|ApiProjeKampi.WebApi\\ApiProjeKampi.WebApi.csproj|solutionrelative:apiprojekampi.webapi\\dtos\\contactdtos\\updatecontcatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F361AE-99C4-402E-BCCF-A3F75FC58234}|ApiProjeKampi.WebApi\\ApiProjeKampi.WebApi.csproj|c:\\users\\aybayrak\\desktop\\apiprojekampi\\apiprojekampi.webapi\\dtos\\contactdtos\\resultcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F361AE-99C4-402E-BCCF-A3F75FC58234}|ApiProjeKampi.WebApi\\ApiProjeKampi.WebApi.csproj|solutionrelative:apiprojekampi.webapi\\dtos\\contactdtos\\resultcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F361AE-99C4-402E-BCCF-A3F75FC58234}|ApiProjeKampi.WebApi\\ApiProjeKampi.WebApi.csproj|c:\\users\\aybayrak\\desktop\\apiprojekampi\\apiprojekampi.webapi\\dtos\\contactdtos\\getbyidcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F361AE-99C4-402E-BCCF-A3F75FC58234}|ApiProjeKampi.WebApi\\ApiProjeKampi.WebApi.csproj|solutionrelative:apiprojekampi.webapi\\dtos\\contactdtos\\getbyidcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F361AE-99C4-402E-BCCF-A3F75FC58234}|ApiProjeKampi.WebApi\\ApiProjeKampi.WebApi.csproj|c:\\users\\aybayrak\\desktop\\apiprojekampi\\apiprojekampi.webapi\\dtos\\contactdtos\\createcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F361AE-99C4-402E-BCCF-A3F75FC58234}|ApiProjeKampi.WebApi\\ApiProjeKampi.WebApi.csproj|solutionrelative:apiprojekampi.webapi\\dtos\\contactdtos\\createcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aybayrak\\Desktop\\ApiProjeKampi\\ApiProjeKampi.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "ApiProjeKampi.WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\aybayrak\\Desktop\\ApiProjeKampi\\ApiProjeKampi.WebApi\\Program.cs",
-              "RelativeToolTip": "ApiProjeKampi.WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "UpdateContcatDto.cs",
+              "DocumentMoniker": "C:\\Users\\aybayrak\\Desktop\\ApiProjeKampi\\ApiProjeKampi.WebApi\\Dtos\\ContactDtos\\UpdateContcatDto.cs",
+              "RelativeDocumentMoniker": "ApiProjeKampi.WebApi\\Dtos\\ContactDtos\\UpdateContcatDto.cs",
+              "ToolTip": "C:\\Users\\aybayrak\\Desktop\\ApiProjeKampi\\ApiProjeKampi.WebApi\\Dtos\\ContactDtos\\UpdateContcatDto.cs",
+              "RelativeToolTip": "ApiProjeKampi.WebApi\\Dtos\\ContactDtos\\UpdateContcatDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T08:32:36.196Z",
+              "WhenOpened": "2025-09-12T06:47:14.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\aybayrak\\Desktop\\ApiProjeKampi\\ApiProjeKampi.WebApi\\Entities\\Contact.cs",
+              "RelativeDocumentMoniker": "ApiProjeKampi.WebApi\\Entities\\Contact.cs",
+              "ToolTip": "C:\\Users\\aybayrak\\Desktop\\ApiProjeKampi\\ApiProjeKampi.WebApi\\Entities\\Contact.cs",
+              "RelativeToolTip": "ApiProjeKampi.WebApi\\Entities\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T06:46:41.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\aybayrak\\Desktop\\ApiProjeKampi\\ApiProjeKampi.WebApi\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "ApiProjeKampi.WebApi\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\aybayrak\\Desktop\\ApiProjeKampi\\ApiProjeKampi.WebApi\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "ApiProjeKampi.WebApi\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\aybayrak\\Desktop\\ApiProjeKampi\\ApiProjeKampi.WebApi\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "ApiProjeKampi.WebApi\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\aybayrak\\Desktop\\ApiProjeKampi\\ApiProjeKampi.WebApi\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "ApiProjeKampi.WebApi\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwBUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T08:29:50.731Z",
+              "WhenOpened": "2025-09-12T06:49:18.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResultContactDto.cs",
+              "DocumentMoniker": "C:\\Users\\aybayrak\\Desktop\\ApiProjeKampi\\ApiProjeKampi.WebApi\\Dtos\\ContactDtos\\ResultContactDto.cs",
+              "RelativeDocumentMoniker": "ApiProjeKampi.WebApi\\Dtos\\ContactDtos\\ResultContactDto.cs",
+              "ToolTip": "C:\\Users\\aybayrak\\Desktop\\ApiProjeKampi\\ApiProjeKampi.WebApi\\Dtos\\ContactDtos\\ResultContactDto.cs",
+              "RelativeToolTip": "ApiProjeKampi.WebApi\\Dtos\\ContactDtos\\ResultContactDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T06:46:35.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetByIdContactDto.cs",
+              "DocumentMoniker": "C:\\Users\\aybayrak\\Desktop\\ApiProjeKampi\\ApiProjeKampi.WebApi\\Dtos\\ContactDtos\\GetByIdContactDto.cs",
+              "RelativeDocumentMoniker": "ApiProjeKampi.WebApi\\Dtos\\ContactDtos\\GetByIdContactDto.cs",
+              "ToolTip": "C:\\Users\\aybayrak\\Desktop\\ApiProjeKampi\\ApiProjeKampi.WebApi\\Dtos\\ContactDtos\\GetByIdContactDto.cs",
+              "RelativeToolTip": "ApiProjeKampi.WebApi\\Dtos\\ContactDtos\\GetByIdContactDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T06:48:08.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateContactDto.cs",
+              "DocumentMoniker": "C:\\Users\\aybayrak\\Desktop\\ApiProjeKampi\\ApiProjeKampi.WebApi\\Dtos\\ContactDtos\\CreateContactDto.cs",
+              "RelativeDocumentMoniker": "ApiProjeKampi.WebApi\\Dtos\\ContactDtos\\CreateContactDto.cs",
+              "ToolTip": "C:\\Users\\aybayrak\\Desktop\\ApiProjeKampi\\ApiProjeKampi.WebApi\\Dtos\\ContactDtos\\CreateContactDto.cs",
+              "RelativeToolTip": "ApiProjeKampi.WebApi\\Dtos\\ContactDtos\\CreateContactDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T06:47:30.173Z",
               "EditorCaption": ""
             }
           ]
