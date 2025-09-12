@@ -33,6 +33,7 @@ namespace ApiProjeKampi.WebApi.Controllers
             return Ok(values);  
         }
 
+        [HttpDelete]
         public IActionResult DeleteCategory(int id)
         {
             var value  = _context.Categories.Find(id);
