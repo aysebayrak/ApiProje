@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\aybayrak\\Desktop\\ApiProjeKampi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aybayrak\\Desktop\\ApiProjeKampi\\ApiProjeKampi.WebUI\\Views\\Shared\\Components\\_HeadDefaultComponentPartial\\Default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiProjeKampi.WebUI\\Views\\Shared\\Components\\_HeadDefaultComponentPartial\\Default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1642D838-634F-4DB9-9089-F772F4470DCB}|ApiProjeKampi.WebUI\\ApiProjeKampi.WebUI.csproj|c:\\users\\aybayrak\\desktop\\apiprojekampi\\apiprojekampi.webui\\views\\shared\\components\\_headdefaultcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1642D838-634F-4DB9-9089-F772F4470DCB}|ApiProjeKampi.WebUI\\ApiProjeKampi.WebUI.csproj|solutionrelative:apiprojekampi.webui\\views\\shared\\components\\_headdefaultcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aybayrak\\Desktop\\ApiProjeKampi\\ApiProjeKampi.WebUI\\ViewComponents\\_HeadDefaultComponentPartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiProjeKampi.WebUI\\ViewComponents\\_HeadDefaultComponentPartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1642D838-634F-4DB9-9089-F772F4470DCB}|ApiProjeKampi.WebUI\\ApiProjeKampi.WebUI.csproj|c:\\users\\aybayrak\\desktop\\apiprojekampi\\apiprojekampi.webui\\viewcomponents\\_headdefaultcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1642D838-634F-4DB9-9089-F772F4470DCB}|ApiProjeKampi.WebUI\\ApiProjeKampi.WebUI.csproj|solutionrelative:apiprojekampi.webui\\viewcomponents\\_headdefaultcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aybayrak\\Desktop\\ApiProjeKampi\\ApiProjeKampi.WebUI\\Views\\Default\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiProjeKampi.WebUI\\Views\\Default\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1642D838-634F-4DB9-9089-F772F4470DCB}|ApiProjeKampi.WebUI\\ApiProjeKampi.WebUI.csproj|c:\\users\\aybayrak\\desktop\\apiprojekampi\\apiprojekampi.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1642D838-634F-4DB9-9089-F772F4470DCB}|ApiProjeKampi.WebUI\\ApiProjeKampi.WebUI.csproj|solutionrelative:apiprojekampi.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aybayrak\\Desktop\\ApiProjeKampi\\ApiProjeKampi.WebUI\\wwwroot\\yummy-red-1.0.0\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiProjeKampi.WebUI\\wwwroot\\yummy-red-1.0.0\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1642D838-634F-4DB9-9089-F772F4470DCB}|ApiProjeKampi.WebUI\\ApiProjeKampi.WebUI.csproj|c:\\users\\aybayrak\\desktop\\apiprojekampi\\apiprojekampi.webui\\wwwroot\\yummy-red-1.0.0\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1642D838-634F-4DB9-9089-F772F4470DCB}|ApiProjeKampi.WebUI\\ApiProjeKampi.WebUI.csproj|solutionrelative:apiprojekampi.webui\\wwwroot\\yummy-red-1.0.0\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aybayrak\\Desktop\\ApiProjeKampi\\ApiProjeKampi.WebUI\\Controllers\\DefaultController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiProjeKampi.WebUI\\Controllers\\DefaultController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1642D838-634F-4DB9-9089-F772F4470DCB}|ApiProjeKampi.WebUI\\ApiProjeKampi.WebUI.csproj|c:\\users\\aybayrak\\desktop\\apiprojekampi\\apiprojekampi.webui\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1642D838-634F-4DB9-9089-F772F4470DCB}|ApiProjeKampi.WebUI\\ApiProjeKampi.WebUI.csproj|solutionrelative:apiprojekampi.webui\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
