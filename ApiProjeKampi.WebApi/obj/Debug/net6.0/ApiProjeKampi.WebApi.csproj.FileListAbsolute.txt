@@ -79,3 +79,4 @@ C:\Users\aybayrak\Desktop\ApiProjeKampi\ApiProjeKampi.WebApi\bin\Debug\net6.0\ru
 C:\Users\aybayrak\Desktop\ApiProjeKampi\ApiProjeKampi.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\aybayrak\Desktop\ApiProjeKampi\ApiProjeKampi.WebApi\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\aybayrak\Desktop\ApiProjeKampi\ApiProjeKampi.WebApi\obj\Debug\net6.0\ApiProjeKampi.WebApi.sourcelink.json
+C:\Users\aybayrak\Desktop\ApiProjeKampi\ApiProjeKampi.WebApi\bin\Debug\net6.0\FluentValidation.dll
