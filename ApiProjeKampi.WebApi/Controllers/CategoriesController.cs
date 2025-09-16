@@ -52,7 +52,7 @@ namespace ApiProjeKampi.WebApi.Controllers
 
         [HttpPut]
 
-        public IActionResult PutCategory(Category category)
+        public IActionResult UpdateCategory(Category category)
         {
             _context.Categories.Update(category);
             _context.SaveChanges();
