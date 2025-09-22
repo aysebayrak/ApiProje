@@ -2,7 +2,7 @@
 
 namespace ApiProjeKampi.WebUI.ViewComponents.DefaultMenuViewComponents
 {
-    public class _DefaultMenuViewComponents : ViewComponent
+    public class _DefaultMenuViewComponentPartial : ViewComponent
     {
         public IViewComponentResult Invoke()
         {
