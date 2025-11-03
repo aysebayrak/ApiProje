@@ -101,6 +101,37 @@ namespace ApiProjeKampi.WebApi.Migrations
                     b.ToTable("Contacts");
                 });
 
+            modelBuilder.Entity("ApiProjeKampi.WebApi.Entities.Event", b =>
+                {
+                    b.Property<int>("EventId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("EventId"), 1L, 1);
+
+                    b.Property<string>("EventDescription")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("EventImageUrl")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<decimal>("EventPrice")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<bool>("EventStatus")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("EventId");
+
+                    b.ToTable("Events");
+                });
+
             modelBuilder.Entity("ApiProjeKampi.WebApi.Entities.Feature", b =>
                 {
                     b.Property<int>("FeatureId")
